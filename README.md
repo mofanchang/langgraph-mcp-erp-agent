@@ -1,5 +1,5 @@
 # langgraph-mcp-erp-agent
-# 🚀OmniAgent ERP: 基於 MCP 協議與Multiple-Ａgent的企業決策系統
+# OmniAgent ERP: 基於 MCP 協議與Multiple-Ａgent的企業決策系統
 
 本專案是一個生產級的 AI agent系統，旨在解決傳統 ERP 系統中數據孤島與決策鏈過長的問題。系統基於 LangGraph 與Model Context Protocol (MCP) 構建，實現了具備「營運嗅覺」的自動化指揮中心。
 
